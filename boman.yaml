@@ -1,0 +1,8 @@
+Auth:
+  project_token: 1d9ce004-cf7a-40f6-a861-1887c0001296
+  customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
+SAST:
+  language: ruby
+SCA:
+  language: ruby
+Secret_Scan: true
